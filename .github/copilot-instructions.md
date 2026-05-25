@@ -1,0 +1,9 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] Clarify Project Requirements (Vite + React JS, one photo at public/photo.jpg, Framer Motion).
+- [x] Scaffold the Project.
+- [x] Customize the Project.
+- [x] Install Required Extensions (none).
+- [x] Compile the Project (npm build + lint).
+- [ ] Create and Run Task (optional).
+- [ ] Launch the Project (npm run dev).
+- [x] Ensure Documentation is Complete.
