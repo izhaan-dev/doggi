@@ -31,3 +31,13 @@ npm run preview
 ## Edit the message
 
 The apology copy and envelope notes live in `src/App.jsx`.
+
+## Deploy (GitHub Pages)
+
+This repo includes a GitHub Actions workflow that builds and deploys to GitHub Pages on every push to `main`.
+
+In GitHub: Settings → Pages → Source: **GitHub Actions**.
+
+Expected URL:
+
+- https://izhaan-dev.github.io/doggi/
