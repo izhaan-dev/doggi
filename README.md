@@ -34,9 +34,15 @@ The apology copy and envelope notes live in `src/App.jsx`.
 
 ## Deploy (GitHub Pages)
 
-This repo includes a GitHub Actions workflow that builds and deploys to GitHub Pages on every push to `main`.
+This project deploys to GitHub Pages using the `gh-pages` branch.
 
-In GitHub: Settings → Pages → Source: **GitHub Actions**.
+In GitHub: Settings → Pages → Source: **Deploy from a branch** → Branch: `gh-pages` → Folder: `/ (root)`.
+
+Deploy from your machine:
+
+```bash
+npm run deploy
+```
 
 Expected URL:
 
